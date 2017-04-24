@@ -8,3 +8,4 @@
 6. [创建一个空白的新分支的方法](https://github.com/shly/notes/blob/master/git/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B0%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B9%E6%B3%95.md)
 7. [git一些基本操作截图](https://github.com/shly/notes/tree/master/git/git%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E6%88%AA%E5%9B%BE)
 8. [websock与http长连接](https://github.com/shly/notes/blob/master/HTTP%E5%8D%8F%E8%AE%AE/websock%E4%B8%8Ehttp%E9%95%BF%E8%BF%9E%E6%8E%A5.md)
+9. [闭包相关知识](https://github.com/shly/notes/blob/master/JavaScript/%E9%97%AD%E5%8C%85%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86.md)
