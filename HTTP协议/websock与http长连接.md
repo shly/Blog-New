@@ -6,6 +6,7 @@
 以下的文字会比较滚乱，主要起个记录作用，主要内容总结如下：
 1. http长连接是一个请求对应一个响应，websocket是一个请求可以对应多个响应
 2. http长连接节省的是tcp握手部分，websocket不但剩下了握手时间，还节省了http报文，节省了带宽
+3. WebSocket是一种新的协议，与http协议并没有什么关系
 
 
 一、WebSocket是HTML5出的东西（协议），也就是说HTTP协议没有变化，或者说没关系，但HTTP是不支持持久连接的（长连接，循环连接的不算）首先HTTP有1.1和1.0之说，也就是所谓的keep-alive，把多个HTTP请求合并为一个，但是Websocket其实是一个新协议，跟HTTP协议基本没有关系，只是为了兼容现有浏览器的握手规范而已，也就是说它是HTTP协议上的一种补充可以通过这样一张图理解&lt;img src="https://pic1.zhimg.com/6651f2f811ec133b0e6d7e6d0e194b4c_b.jpg" data-rawwidth="374" data-rawheight="133" class="content_image" width="374"&gt;有交集，但是并不是全部。有交集，但是并不是全部。另外Html5是指的一系列新的API，或者说新规范，新技术。Http协议本身只有1.0和1.1，而且跟Html本身没有直接关系。。通俗来说，你可以用HTTP协议传输非Html数据，就是这样=。=再简单来说，层级不一样。二、Websocket是什么样的协议，具体有什么优点首先，Websocket是一个持久化的协议，相对于HTTP这种非持久的协议来说。简单的举个例子吧，用目前应用比较广泛的PHP生命周期来解释。1) HTTP的生命周期通过Request来界定，也就是一个Request 一个Response，那么在HTTP1.0中，这次HTTP请求就结束了。在HTTP1.1中进行了改进，使得有一个keep-alive，也就是说，在一个HTTP连接中，可以发送多个Request，接收多个Response。但是请记住 Request = Response ， 在HTTP中永远是这样，也就是说一个request只能有一个response。而且这个response也是被动的，不能主动发起。教练，你BB了这么多，跟Websocket有什么关系呢？_(:з」∠)_好吧，我正准备说Websocket呢。。首先Websocket是基于HTTP协议的，或者说借用了HTTP的协议来完成一部分握手。在握手阶段是一样的-------以下涉及专业技术内容，不想看的可以跳过lol:，或者只看加黑内容--------首先我们来看个典型的Websocket握手（借用Wikipedia的。。）GET /chat HTTP/1.1
