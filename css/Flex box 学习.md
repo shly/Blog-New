@@ -8,7 +8,7 @@
    ### Flex容器的属性
    flex-direction || flex-wrap || flex-flow || justify-content || align-items || align-content
    ### Flex项目的属性
-   order || flex-grow || flex-shrink || flex=basis
+   order || flex-grow || flex-shrink || flex-basis
   ## 备注
   justify-content 相当于主轴上的align
   align-items和 align-content 相当于侧轴上的align <b> align-items作用于单行元素， align-content作用于多行元素</b>，即如果flex项目有多行时，align-content起作用，align-items不起作用，反之亦然。
