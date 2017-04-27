@@ -13,3 +13,4 @@
 11. [数组对象的判断](https://github.com/shly/notes/blob/master/JavaScript/%E6%95%B0%E7%BB%84%E7%9A%84%E5%88%A4%E6%96%AD%E6%96%B9%E5%BC%8F.md)
 12. [对json的理解](https://github.com/shly/notes/blob/master/JavaScript/%E5%AF%B9JSON%E7%9A%84%E7%90%86%E8%A7%A3.md)
 13. [箭头表达式](https://github.com/shly/notes/blob/master/JavaScript/%E7%AE%AD%E5%A4%B4%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+14. [Array对象的一些方法](https://github.com/shly/notes/blob/master/JavaScript/Array%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%80%E4%BA%9B%E6%96%B9%E6%B3%95.md)
