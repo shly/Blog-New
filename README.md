@@ -14,3 +14,4 @@
 12. [对json的理解](https://github.com/shly/notes/blob/master/JavaScript/%E5%AF%B9JSON%E7%9A%84%E7%90%86%E8%A7%A3.md)
 13. [箭头表达式](https://github.com/shly/notes/blob/master/JavaScript/%E7%AE%AD%E5%A4%B4%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 14. [Array对象的一些方法](https://github.com/shly/notes/blob/master/JavaScript/Array%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%80%E4%BA%9B%E6%96%B9%E6%B3%95.md)
+15. [关于border的一些笔记](https://github.com/shly/notes/blob/master/css/border%E7%AC%94%E8%AE%B0.md)
