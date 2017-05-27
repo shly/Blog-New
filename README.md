@@ -16,3 +16,4 @@
 14. [Array对象的一些方法](https://github.com/shly/notes/blob/master/JavaScript/Array%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%80%E4%BA%9B%E6%96%B9%E6%B3%95.md)
 15. [关于border的一些笔记](https://github.com/shly/notes/blob/master/css/border%E7%AC%94%E8%AE%B0.md)
 16. [float相关](https://github.com/shly/notes/blob/master/css/%E5%A4%A7Float.md)
+17. [区分_proto_和prototype](https://github.com/shly/notes/blob/master/JavaScript/%E5%8C%BA%E5%88%86_proto_%E4%B8%8Eprototype.md)
