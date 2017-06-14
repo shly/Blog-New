@@ -17,3 +17,4 @@
 15. [关于border的一些笔记](https://github.com/shly/notes/blob/master/css/border%E7%AC%94%E8%AE%B0.md)
 16. [float相关](https://github.com/shly/notes/blob/master/css/%E5%A4%A7Float.md)
 17. [区分_proto_和prototype](https://github.com/shly/notes/blob/master/JavaScript/%E5%8C%BA%E5%88%86_proto_%E4%B8%8Eprototype.md)
+18.[单文件组件中使用less语法](https://github.com/shly/notes/blob/master/VueJS/%E5%8D%95%E6%96%87%E4%BB%B6%E7%BB%84%E4%BB%B6%E4%B8%AD%E4%BD%BF%E7%94%A8less.md)
