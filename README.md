@@ -19,3 +19,4 @@
 17. [区分_proto_和prototype](https://github.com/shly/notes/blob/master/JavaScript/%E5%8C%BA%E5%88%86_proto_%E4%B8%8Eprototype.md)
 18. [单文件组件中使用less语法](https://github.com/shly/notes/blob/master/VueJS/%E5%8D%95%E6%96%87%E4%BB%B6%E7%BB%84%E4%BB%B6%E4%B8%AD%E4%BD%BF%E7%94%A8less.md)
 19. [自定义滚动条](https://github.com/shly/notes/blob/master/css/chrome%E8%87%AA%E5%AE%9A%E4%B9%89%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F.md)
+20. [鼠标事件区分（mouseenter与mousehover,mouseleave与mouseout）](https://github.com/shly/notes/blob/master/JavaScript/mouse%E4%BA%8B%E4%BB%B6%E5%8C%BA%E5%88%86.md)
