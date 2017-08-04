@@ -1,0 +1,8 @@
+Html5的拖拽接口有DragEvent, DataTransfer, DataTransferItem 和DataTransferItemList.
+DragEvent 接口有一个构造函数和一个属性， dataTransfer 属性是一个DataTransfer对象。
+DataTransfer对象包含了拖拽事件的状态，例如拖动事件的类型（如拷贝或者移动），拖动的数据（一个或者多个项）和每个拖动项的类型（MIME类型）。DataTransfer对象也有一些方法，可以向拖动数据中添加项或者删除项。DragEvent 和DataTransfer 接口应该仅有的接口来给应用程序添加html拖放功能。
+但是，注意firefox给DataTransfer添加了可能用到的一些扩展的功能，尽管这些扩展只在firefox上才可用。
+每个DataTransfer 包含一个items属性，这个属性是一个DataTransferItem 对象的列表。每一个DataTransferItem 对象代表一个单独的拖动项，每一项有个kind属性，代表数据的种类（string或者file），也有个type属性，代表数据项的类型（例如MIME类型）
+DataTransferItem 对象也包含了得到拖拽项的数据的方法。
+DataTransferItemList 对象是DataTransferItem 对象的一个列表。这个列表对象包含方法：向列表中添加拖动项，从列表中移除拖动项和清空列表中所有的拖拽项。
+DataTransfer 和DataTransferItem 接口的一个主要的不同在于，前者使用同步的getData() 方法去得到一个拖拽项的数据，然后后者使用异步的getAsString() 方法得到一个拖拽项的数据。
