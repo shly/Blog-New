@@ -22,3 +22,4 @@
 20. [鼠标事件区分（mouseenter与mousehover,mouseleave与mouseout）](https://github.com/shly/notes/blob/master/JavaScript/mouse%E4%BA%8B%E4%BB%B6%E5%8C%BA%E5%88%86.md)
 21. [vue插件整理](https://github.com/shly/notes/blob/master/VueJS/vue%20%E5%B8%B8%E7%94%A8%E7%9A%84%E6%8F%92%E4%BB%B6.md)
 22. [js获取元素位置及大小的方式](https://github.com/shly/notes/blob/master/JavaScript/js%E8%8E%B7%E5%8F%96%E5%85%83%E7%B4%A0%E4%BD%8D%E7%BD%AE%E5%8F%8A%E5%A4%A7%E5%B0%8F%E7%9A%84%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93.md)
+23. [javascript defer和asyn的区别](https://github.com/shly/notes/blob/master/JavaScript/defer%E5%92%8Casyn%E7%9A%84%E5%8C%BA%E5%88%AB.md)
