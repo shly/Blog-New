@@ -32,6 +32,8 @@
 1.	对象字面量
 var a = {}
 这里a是一个最简单的对象字面量，按照上面的分析，它不是一个函数，因此没有prototype属性，它的__proto__应该指向它构造函数的原型，即Object的原型，下面我们在chrome的命令行中进行测试。运行结果如下。
+  
+  a.__proto__ === Object.prototype  => true
  
 2.	引用类型
 引用类型是一种能够数据结构，用于将数据和功能组织到一起，类似于Java中类的概念，引用类型的值是引用类型的示例，相当于Java中类的实例。JavaScript中的引用类型主要有以下几类：Object，Array，Date，RegExp，Function以及特殊的引用类型Boolean、Number和String。对于引用类型，我们需要知道的是在JavaScript中，引用类型是以函数的形式存在的，因此它们也有prototype属性，指向它们各自的原型，它们的属性与方法都是定义在原型上的，因此可以被所有的实例共享。除了Function和Object外，其他的引用类型的原型链基本相同。下图以Array类型为例说明引用类型的原型指针指向。
