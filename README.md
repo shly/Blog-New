@@ -24,3 +24,4 @@
 22. [js获取元素位置及大小的方式](https://github.com/shly/notes/blob/master/JavaScript/js%E8%8E%B7%E5%8F%96%E5%85%83%E7%B4%A0%E4%BD%8D%E7%BD%AE%E5%8F%8A%E5%A4%A7%E5%B0%8F%E7%9A%84%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93.md)
 23. [javascript defer和asyn的区别](https://github.com/shly/notes/blob/master/JavaScript/defer%E5%92%8Casyn%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 24. [JavaScript类型](https://tech.youzan.com/javascript-type/)
+25. [javascript强制类型转换](https://github.com/shly/notes/blob/master/JavaScript/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
