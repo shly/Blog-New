@@ -28,3 +28,4 @@
 23. [javascript defer和asyn的区别](https://github.com/shly/notes/blob/master/JavaScript/defer%E5%92%8Casyn%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 24. [JavaScript类型](https://tech.youzan.com/javascript-type/)
 25. [javascript强制类型转换](https://github.com/shly/notes/blob/master/JavaScript/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+26. [v-for](https://github.com/shly/notes/blob/master/VueJS/v-for%E7%9B%B8%E5%85%B3.md)
