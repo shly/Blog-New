@@ -29,3 +29,4 @@
 24. [JavaScript类型](https://tech.youzan.com/javascript-type/)
 25. [javascript强制类型转换](https://github.com/shly/notes/blob/master/JavaScript/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 26. [v-for](https://github.com/shly/notes/blob/master/VueJS/v-for%E7%9B%B8%E5%85%B3.md)
+27. [vue组件的生命周期](https://github.com/shly/notes/blob/master/VueJS/vue%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
