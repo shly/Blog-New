@@ -31,3 +31,4 @@
 26. [v-for](https://github.com/shly/notes/blob/master/VueJS/v-for%E7%9B%B8%E5%85%B3.md)
 27. [vue组件的生命周期](https://github.com/shly/notes/blob/master/VueJS/vue%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 28. [如何在nodejs中使用es6的语法](https://github.com/shly/notes/blob/master/JavaScript/nodejs%E4%B8%AD%E4%BD%BF%E7%94%A8ES6%E8%AF%AD%E6%B3%95.md)
+29. [chrome浏览器自定义滚动条样式](https://github.com/shly/notes/blob/master/css/chrome%E8%87%AA%E5%AE%9A%E4%B9%89%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F.md)
