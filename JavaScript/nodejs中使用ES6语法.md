@@ -10,9 +10,9 @@
      
   3. babel转换配置,项目根目录添加.babelrc 文件
 
-    {
-     "presets" : ['es2015']
-    }
+        {
+         "presets" : ['es2015']
+        }
     
   4. 
       
@@ -20,4 +20,4 @@
  
   5. 项目根目录添加入口文件 index.js
 
-    require('babel-register');
+      require('babel-register');
