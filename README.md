@@ -34,4 +34,5 @@
 29. [chrome浏览器自定义滚动条样式](https://github.com/shly/notes/blob/master/css/chrome%E8%87%AA%E5%AE%9A%E4%B9%89%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F.md)
 30. [初识Buffer和Stream](https://github.com/shly/notes/blob/master/HTTP%E5%8D%8F%E8%AE%AE/%E5%88%9D%E8%AF%86Buffer%E5%92%8CStream.md)
 31. [loader]()
+32. [socket通信模块设计文档](https://github.com/shly/Study-Note/blob/master/JavaScript/socket%E9%80%9A%E4%BF%A1%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.md)
 
